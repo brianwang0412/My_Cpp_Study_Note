@@ -1,5 +1,4 @@
 #include<iostream>
-#include<iomanip>
 using namespace std;
 
 //a(n) = n*a(n-1), a(1)=1
@@ -68,4 +67,5 @@ int main(){
         Output(n);
         cout <<'.'<<endl;
     }
+
 }
